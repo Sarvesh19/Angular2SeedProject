@@ -14,7 +14,7 @@ Running
 
 Clone the repository:
 
-git clone https://github.com/kolorobot/angular2-typescript-gulp.git
+git clone https://github.com/Sarvesh19/Angular2SeedProject.git
 Navigate to angular2-typescript-gulp directory:
 
 cd Angular2SeedProject
